@@ -1,1 +1,1 @@
-Ficheiro com nome do nalimal de estimaçaõ
+Ficheiro com nome do animal de estimaçaõ
